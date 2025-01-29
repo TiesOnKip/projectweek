@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1712.43 1156.74">
+    <defs>
+        <style>
+            .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10,
+            .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19,
+            .cls-20, .cls-21, .cls-22, .cls-23, .cls-24 {
+                fill: none;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+            .cls-1, .cls-2, .cls-7, .cls-8, .cls-9, .cls-11, .cls-12, .cls-16, .cls-17,
+            .cls-18, .cls-21, .cls-22 {
+                stroke-width: 3.28px;
+            }
+            .cls-1, .cls-3 {
+                stroke: #e65125;
+            }
+            .cls-25 {
+                fill: #beb438;
+            }
+            .cls-2 {
+                stroke: #c89587;
+            }
+            .cls-3, .cls-4, .cls-5, .cls-6, .cls-10, .cls-13, .cls-14, .cls-15, .cls-19,
+            .cls-20, .cls-23, .cls-24 {
+                stroke-width: 3.41px;
+            }
+            .cls-26 {
+                fill: #e65125;
+            }
+            .cls-27 {
+                fill: #648e49;
+            }
+            .cls-28 {
+                filter: url(#drop-shadow-2);
+            }
+            .cls-4, .cls-16 {
+                stroke: #eb6734;
+            }
+            .cls-29 {
+                fill: #fbbb93;
+            }
+            .cls-30 {
+                fill: #dba089;
+            }
+            .cls-5, .cls-7 {
+                stroke: #fee1c5;
+            }
+            .cls-31 {
+                fill: #b36a56;
+            }
+            .cls-32 {
+                opacity: .36;
+            }
+            .cls-32, .cls-33 {
+                fill: #fff;
+            }
+            .cls-34 {
+                fill: #8d8030;
+            }
+            .cls-6 {
+                stroke: #61b1c1;
+            }
+            .cls-35 {
+                fill: #93cb70;
+            }
+            .cls-36 {
+                fill: #faaa47;
+            }
+            .cls-37 {
+                opacity: .31;
+            }
+            .cls-38 {
+                fill: #f1f1f4;
+            }
+            .cls-8, .cls-14 {
+                stroke: #fdc57f;
+            }
+            .cls-39 {
+                fill: #eb6734;
+            }
+            .cls-40 {
+                fill: #61b1c1;
+            }
+            .cls-41 {
+                filter: url(#drop-shadow-1);
+            }
+            .cls-42 {
+                fill: #f68b1f;
+            }
+            .cls-43 {
+                fill: #caae9a;
+            }
+            .cls-44 {
+                isolation: isolate;
+            }
+            .cls-45 {
+                fill: #676630;
+            }
+            .cls-9 {
+                stroke: #a09d45;
+            }
+            .cls-10 {
+                stroke: #372d4f;
+            }
+            .cls-46 {
+                fill: #96635e;
+            }
+            .cls-47 {
+                fill: #c92e27;
+            }
+            .cls-48, .cls-49, .cls-50 {
+                fill: #b17db7;
+            }
+            .cls-51 {
+                opacity: .92;
+            }
+            .cls-11, .cls-23 {
+                stroke: #704844;
+            }
+            .cls-52 {
+                fill: #02588c;
+            }
+            .cls-12 {
+                stroke: #196356;
+            }
+            .cls-53 {
+                fill: #fbad2e;
+            }
+            .cls-54 {
+                fill: #635683;
+            }
+            .cls-13, .cls-22 {
+                stroke: #f1f1f4;
+            }
+            .cls-15, .cls-17 {
+                stroke: #ed8b45;
+            }
+            .cls-55 {
+                fill: #3b816e;
+            }
+            .cls-56 {
+                fill: #f8b72f;
+            }
+            .cls-57 {
+                fill: #fbac4f;
+            }
+            .cls-18 {
+                stroke: #4e512b;
+            }
+            .cls-19 {
+                stroke: #02588c;
+            }
+            .cls-49 {
+                opacity: .21;
+            }
+            .cls-49, .cls-50, .cls-58 {
+                mix-blend-mode: multiply;
+            }
+            .cls-59 {
+                fill: #f58220;
+            }
+            .cls-20, .cls-21 {
+                stroke: #faaa47;
+            }
+            .cls-60 {
+                fill: #372d4f;
+            }
+            .cls-61 {
+                fill: #3885a3;
+            }
+            .cls-62 {
+                fill: #f9b698;
+            }
+            .cls-63 {
+                fill: #5b2f28;
+            }
+            .cls-64 {
+                fill: #fdc57f;
+            }
+            .cls-65 {
+                fill: #7c6a2c;
+            }
+            .cls-66 {
+                fill: #fee1c5;
+            }
+            .cls-67 {
+                fill: #fdcc87;
+            }
+            .cls-24 {
+                stroke: #3885a3;
+            }
+            .cls-68 {
+                fill: #f04e4e;
+            }
+            .cls-69 {
+                fill: #f1583e;
+            }
+            .cls-70 {
+                fill: #414042;
+            }
+            .cls-71 {
+                fill: #753a42;
+            }
+            .cls-50, .cls-58 {
+                opacity: .5;
+            }
+        </style>
+        <filter id="drop-shadow-1" x="978.09" y="85.22" width="755.28" height="501.6" filterUnits="userSpaceOnUse">
+            <feOffset dx="7" dy="7"/>
+            <feGaussianBlur result="blur" stdDeviation="5"/>
+            <feFlood flood-color="#231f20" flood-opacity=".5"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="drop-shadow-2" x="1344.71" y="36.64" width="384.72" height="270" filterUnits="userSpaceOnUse">
+            <feOffset dx="5.33" dy="5.33"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3.8"/>
+            <feFlood flood-color="#231f20" flood-opacity=".5"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g class="cls-44">
+        <g id="Layer_1">
+            <rect class="cls-70" width="913.5" height="683.85"/>
+            <g class="cls-41">
+                <path class="cls-62" d="M1418.96,434.42c-9.6-5.64-15.61-16.91-14.95-28.05.13-2.17,1.15-4.92,3.32-4.84,1.37.05,2.37,1.28,3.17,2.39,7.79,10.73,16.61,21.15,28.19,27.59,8.2,4.57,17.57,7,25.2,12.47,9.18,6.57,15.16,17.43,15.83,28.71l-24.95,51.61-59.27-6.6,23.46-83.28Z"/>
+                <path class="cls-71" d="M1462.86,445.97s-.02.48-.12,1.34c-.31,2.91-1.35,10.26-4.61,19.25-.6,1.64-1.26,3.33-2.02,5.07-9.49,21.92-32.18,49.84-86.2,49.32-56.66.54-78.86-30.21-87.5-52.49-.7-1.78-1.3-3.51-1.82-5.16-2.27-7.09-3.14-12.81-3.45-15.56-.13-1.15-.17-1.77-.17-1.77h.36l1.42.02,25.25.23h.02l41.33.36h0l17.47.16,4.26.04,2.84.02h.1l5.47-.05h0l12.39-.11s0,0,0,0l28.17-.25,19.47-.17h0l25.24-.23h1.43s.66-.02.66-.02Z"/>
+                <path class="cls-71" d="M1463.15,442.81c0,4.11-4.76,7.96-13.06,11.26-16.28,6.48-46.17,10.81-80.34,10.81s-64.06-4.33-80.34-10.81c-8.29-3.3-13.06-7.14-13.06-11.26,0-12.18,41.81-22.06,93.4-22.06s93.4,9.88,93.4,22.06Z"/>
+                <path class="cls-71" d="M1450.1,454.07c-9.6,3.82-23.92,6.89-41.07,8.77-11.94,1.32-25.24,2.04-39.27,2.04-34.17,0-64.06-4.33-80.34-10.81,8.71-9.3,41.37-16.21,80.34-16.21,11.62,0,22.69.62,32.72,1.73,23.6,2.61,41.51,7.95,47.62,14.48Z"/>
+                <path class="cls-71" d="M1454.77,454.07c-9.6,3.82-23.92,6.89-41.07,8.77-11.94,1.32-25.24,2.04-39.27,2.04-34.17,0-64.06-4.33-80.34-10.81,8.71-9.3,41.37-16.21,80.34-16.21,11.62,0,22.69.62,32.72,1.73,23.6,2.61,41.51,7.95,47.62,14.48Z"/>
+            </g>
+        </g>
+    </g>
+</svg>
