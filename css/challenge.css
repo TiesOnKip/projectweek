@@ -8,6 +8,7 @@
     margin: 0 auto;
     margin-top: 80px;
     margin-bottom: 80px;
+    max-height: 1000vh;
 }
 
 .button{
@@ -67,7 +68,7 @@ a:hover {
     -ms-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%);
     left: 10%;
-    top: 93.6%;
+    top: 95%;
 }
 
 #leaf1 {
